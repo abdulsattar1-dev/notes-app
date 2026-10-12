@@ -22,7 +22,7 @@ A notes app for saving what you learn. Write notes, put them in categories, pin 
 
 ## 🛠️ Run it on your computer
 ```bash
-git clone https://github.com/abdulsattarnangri7-desktoop/notes-app.git
+git clone https://github.com/abdulsattar1-dev/notes-app.git
 cd notes-app
 npm install
 npm run dev
@@ -34,4 +34,4 @@ React 19 · Vite · React Router · useReducer · Context API · localStorage
 
 ## 👤 Author
 **Abdul Sattar** — WordPress & React Developer
-[GitHub](https://github.com/abdulsattarnangri7-desktoop) · [Portfolio](http://abdulsattarportfolio.free.nf)
+[GitHub](https://github.com/abdulsattar1-dev) · [Portfolio](http://abdulsattarportfolio.free.nf)
