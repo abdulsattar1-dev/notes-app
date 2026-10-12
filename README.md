@@ -1,16 +1,37 @@
-# React + Vite
+# 📚 Skill Notes
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A notes app for saving what you learn. Write notes, put them in categories, pin the important ones and find them fast with search.
 
-Currently, two official plugins are available:
+**🔗 Live demo:** _add your Vercel link here_
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
+- Create, read, edit and delete notes (full CRUD)
+- Categories: React, JavaScript, CSS, English, Other
+- **Search** notes and filter by category
+- **Pin** important notes to the top
+- Dark / light theme that is remembered
+- All notes saved in the browser
+- Custom 404 page
 
-## React Compiler
+## 🧠 What I learned
+- `useReducer` for managing notes (ADD, UPDATE, DELETE, PIN)
+- Making my own custom hook: `useLocalStorage`
+- Context API + React Router together
+- One reusable form for both new and edit pages
+- Theme switching
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Run it on your computer
+```bash
+git clone https://github.com/abdulsattarnangri7-desktoop/notes-app.git
+cd notes-app
+npm install
+npm run dev
+```
+Then open http://localhost:5173
 
-## Expanding the Oxlint configuration
+## 📦 Built with
+React 19 · Vite · React Router · useReducer · Context API · localStorage
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## 👤 Author
+**Abdul Sattar** — WordPress & React Developer
+[GitHub](https://github.com/abdulsattarnangri7-desktoop) · [Portfolio](http://abdulsattarportfolio.free.nf)
