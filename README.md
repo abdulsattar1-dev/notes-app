@@ -2,7 +2,7 @@
 
 A notes app for saving what you learn. Write notes, put them in categories, pin the important ones and find them fast with search.
 
-**🔗 Live demo:** _add your Vercel link here_
+**🔗 Live demo:** https://notes-app-rho-six.vercel.app
 
 ## ✨ Features
 - Create, read, edit and delete notes (full CRUD)
